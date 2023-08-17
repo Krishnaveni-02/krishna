@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/krishna/static/css/main.4a073154.css",
-    "main.js": "/krishna/static/js/main.b8f19ebc.js",
+    "main.js": "/krishna/static/js/main.0dba5106.js",
     "index.html": "/krishna/index.html",
     "main.4a073154.css.map": "/krishna/static/css/main.4a073154.css.map",
-    "main.b8f19ebc.js.map": "/krishna/static/js/main.b8f19ebc.js.map"
+    "main.0dba5106.js.map": "/krishna/static/js/main.0dba5106.js.map"
   },
   "entrypoints": [
     "static/css/main.4a073154.css",
-    "static/js/main.b8f19ebc.js"
+    "static/js/main.0dba5106.js"
   ]
 }
