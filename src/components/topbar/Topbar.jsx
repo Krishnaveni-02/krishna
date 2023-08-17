@@ -10,10 +10,6 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             Princess.
           </a>
           <div className="itemContainer">
-            <Person className="icon" />
-            <span>+91 9966521415</span>
-          </div>
-          <div className="itemContainer">
             <Mail className="icon" />
             <a href="mailto:sunkarikrishnaveni979@gmail.com"><span>sunkarikrishnaveni979@gmail.com</span></a>
           </div>
