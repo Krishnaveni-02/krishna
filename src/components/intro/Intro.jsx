@@ -18,7 +18,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/kc.jpeg" alt="" roundedCircle/> 
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCBnXFgkufz9WnF4rp4u_6zZ3mgVWTkOyb_A&usqp=CAU" alt="profile_pic" roundedCircle/> 
         </div>
       </div>
       <div className="right">
